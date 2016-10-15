@@ -3,7 +3,7 @@ h1 {
        text-align: center;
        line-height: center;
 }
-h1.thick {
+.thick {
        font-weight:900;
 }
 body {
