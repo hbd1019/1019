@@ -2,9 +2,10 @@ h1 {
        color: white;
        text-align: center;
        line-height: center;
-
 }
-
-body{
+.thick {
+       font-weight:900;
+}
+body {
        background-color: black;
 }
