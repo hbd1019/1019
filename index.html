@@ -9,7 +9,24 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.0.0-beta.2.4/owl.carousel.min.js"></script>
 
 <script>
-
+$(document).ready(function() {
+ 
+  $("#owl-demo").owlCarousel({
+    stopOnHover : true,
+    navigation:true,
+    paginationSpeed : 1000,
+    goToFirstSpeed : 2000,
+    singleItem : true,
+    autoHeight : true,
+    autoplay: true, // 自動輪播
+    autoplayTimeout: 3000, // 切換時間
+    autoplayHoverPause: true, // 滑鼠經過時暫停
+    loop: true;
+    transitionStyle:"fade"
+   
+  });
+ 
+});
 </script>
  
 <title> test </title>
