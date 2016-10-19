@@ -18,6 +18,12 @@ h1 {
 .thick {
        font-weight:900;
 }
+p {
+       color: gray;
+  text-align: center;
+       line-height: center;
+}
+
 body {
        background-color: #FFE9F6;
        background-image:url('');
