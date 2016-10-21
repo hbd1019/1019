@@ -29,6 +29,7 @@ body {
        background-image:url('https://c2.staticflickr.com/6/5758/29831816853_c50e726cb7_o.png');
        background-repeat:no-repeat;
        background-position:center;
+       background-attachment: fixed;
        /*margin-right: 600px;*/
 }
 
