@@ -25,6 +25,8 @@ p {
 }
 
 body {
+       background: black url("https://farm9.static.flickr.com/8663/29791329474_3b0b75a8a0_o.jpg") no-repeat center;
+       /*margin-right: 600px;*/
        background-color: #FFE9F6;
        background-image:url('');
        background-repeat:no-repeat;
@@ -34,3 +36,4 @@ body {
 audio {
        display: none;
 }
+
