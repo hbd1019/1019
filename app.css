@@ -27,10 +27,9 @@ p {
 body {
        background-color: #FFE9F6;
        background-image:url('https://farm9.static.flickr.com/8663/29791329474_3b0b75a8a0_o.jpg');
-       opacity:0.5;
        background-repeat:no-repeat;
        background-position:center;
-       /*margin-right: 600px;*/
+       margin-right: 600px;
 }
 
 audio {
