@@ -26,14 +26,10 @@ p {
 
 body {
        background-color: #FFE9F6;
-       background-image:url('https://farm9.static.flickr.com/8663/29791329474_3b0b75a8a0_o.jpg');
+       background-image:url('https://c1.staticflickr.com/9/8567/29833828414_5b886d3667_b.jpg');
        background-repeat:no-repeat;
        background-position:center;
        /*margin-right: 600px;*/
-}
-
-background {
-opacity:0.5;
 }
 
 audio {
